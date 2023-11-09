@@ -1,1 +1,0 @@
-document.write(`<p>ESTO ES EL EJERCICIO 1</p>`)
